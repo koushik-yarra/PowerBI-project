@@ -4,7 +4,7 @@ This repository contains files and resources for a PowerBI analysis project. The
 
 ## Files
 
-- `PowerBI_Dataset.xlsx`: This Excel file contains the dataset used for the PowerBI analysis.
+- `[PowerBI_Dataset.xlsx](https://github.com/koushik-yarra/PowerBI-project/tree/master/PowerBI_Project/Dataset)`: This Excel file contains the dataset used for the PowerBI analysis.
 - `[powerbi.pbix](https://github.com/koushik-yarra/PowerBI-project/tree/master/PowerBI_Project/Dashboard)`: This PowerBI file is the report created based on the dataset.
 
 ## Project Overview
